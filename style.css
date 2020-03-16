@@ -1,0 +1,11 @@
+#game-place{
+    border: 2px solid black;
+    width: 800px;
+    height: 600px;
+    border-radius: 15px;
+}
+
+#canvas1{
+    background-color: burlywood;
+    border-radius: 15px;
+}
